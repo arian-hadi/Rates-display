@@ -1,1 +1,1 @@
-MAILTRAP_APIKEY = "********6b4b"
+GMAIL_APIKEY = "password"
